@@ -1,0 +1,4 @@
+Laboratorio de Git
+Objetivos:
+- Crear un repositorio
+- Subir cambios a GitHUb
